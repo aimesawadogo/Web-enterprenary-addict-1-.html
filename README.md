@@ -1,2 +1,3 @@
 # Web-enterprenary-addict-1-.html
-Site web de partage de connaissances et contenu très intéressant.
+WEADIC
+Site web de partage de connaissances et contenu très concernant le business sur le digital.
